@@ -23,7 +23,7 @@ npm install
 
 ## Configuration
 
-Enter a value in `config/config.json`
+Enter a value in `config.json`
 
 ```json
 {
