@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.4.0",
+    "glob": "^7.2.0"
+  },
+  "name": "djs-template",
+  "version": "1.2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "load": "node LoadSlash.js",
+    "clear": "node ClearSlash.js"
+  },
+  "author": "FEDUP1",
+  "license": "MIT",
+  "description": "✈ https://discord.gg/kQ6xUZpcMt",
+  "devDependencies": {
+    "node": "^16.13.2"
+  }
+}
