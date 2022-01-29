@@ -19,7 +19,7 @@ npm install
  
  2.After you run the bot you can use `npm run load` or `node LoadSlash.js` to register slashcommand. (on use global (/) not have? please kick bot and invite again!) 
  
- 3.You want yo clearing slashcommand you can use `npm run clear` or `node ClearSlash.js` to clearing slashcommand. (same header)
+ 3.You want clearing slashcommand you can use `npm run clear` or `node ClearSlash.js` to clearing slashcommand. (same header)
 
 ## Configuration
 
